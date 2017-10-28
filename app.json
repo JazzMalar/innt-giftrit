@@ -1,8 +1,8 @@
 {
-  "name": "Start on Heroku: Node.js",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
+  "name": "Giftr.it App for InnT at Fernfachhochschule Schweiz FFHS",
+  "description": "An application with node.js on Heroku",
+  "repository": "https://github.com/ralphkoster/innt-giftrit",
   "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
-  "keywords": ["node", "express", "heroku"],
+  "keywords": ["giftrit", "innt", "heroku"],
   "image": "heroku/nodejs"
 }
